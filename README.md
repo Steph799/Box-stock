@@ -8,3 +8,4 @@ Note:
 - Every box has a square bottom (be aware about the coordinates: you deal with bottom X heigh)
 - You can also see all the configurations that define all the stock management
 - The project has no UI. Just console
+- The project includes built-in data base for checking all the possibilities.
